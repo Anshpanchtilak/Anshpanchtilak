@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshpanchtilak&label=Profile%20views&color=0e75b6&style=flat" alt="anshpanchtilak" /> </p>
 
-- - 💻 Passionate about **creating robust software solutions.**
+- 💻 Passionate about **creating robust software solutions.**
 
 - 🌟 Always learning new tech for **innovative projects.**
 
