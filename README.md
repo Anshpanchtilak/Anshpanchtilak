@@ -12,12 +12,8 @@
 - 🚀 Developed an e-commerce site and a learning platform during my internship at CodeTech, **honing my software development skills.**
 <br>
 <hr>
-<div>
-<img>
-  (https://github.com/user-attachments/assets/852a2f7e-cb08-43e2-94ea-86938b3095b3)
-</img>  
-
-</div>
+   <img src="![200](https://github.com/user-attachments/assets/42e168db-7221-4b99-b9f7-f10e7fd8d5ef)
+" > </img>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
