@@ -4,17 +4,16 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anshpanchtilak&label=Profile%20views&color=0e75b6&style=flat" alt="anshpanchtilak" /> 
 </p>
-
 - 💻 Passionate about **creating robust software solutions.**
 - 🌟 Always learning new tech for **innovative projects.**
 - 🛠️ Skilled in Python, JavaScript, and the MERN stack, with hands-on experience in **developing full-stack applications**
 - 🚀 Developed an e-commerce site and a learning platform during my internship at CodeTech, **honing my software development skills.**
-
 <br>
 <hr>
 
 <div align="center">
-  <img src="/mnt/data/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Coding GIF" width="800px">
+  <img src=" ![ansh11](https://github.com/user-attachments/assets/4146d4d2-cf0d-4d00-b70b-b7d6ce3ef782)
+   " alt="Coding GIF" width="800px">
 </div>
 
 <hr>
