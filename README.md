@@ -20,5 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshpanchtilak&show_icons=true&locale=en" alt="anshpanchtilak" /></p>
 
-learning about the dashboard
 
