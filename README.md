@@ -7,7 +7,7 @@
 
 - 🌟 Always learning new tech for **innovative projects.**
 
-- 🛠️ Skilled in Python, JavaScript, and the MERN stack, with hands-on experience in **developing full-stack applications**
+- 🛠️ Skilled in Python, JavaScript, full stack java developer and the MERN stack, with hands-on experience in **developing full-stack applications**
 
 - 🚀 Developed an e-commerce site and a learning platform during my internship at CodeTech, **honing my software development skills.**
 <br>
