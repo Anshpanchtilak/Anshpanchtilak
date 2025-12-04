@@ -59,7 +59,4 @@
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshpanchtilak&show_icons=true&locale=en&theme=radical&hide_border=true" alt="anshpanchtilak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshpanchtilak&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="anshpanchtilak" height="150" />
-</div>
+
