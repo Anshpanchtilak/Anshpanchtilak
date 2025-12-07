@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ansh Panchtilak 👋</h1>
-<h3 align="center">Computer Science Engineer | Full Stack Developer</h3>
+<h3 align="center">Computer Science Engineer | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ansh-panchtilak-512a13225/">
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  I am a passionate software engineer focused on building <b>robust, scalable software solutions</b>. With a strong foundation in Computer Science and hands-on experience in the MERN stack and Java development, I enjoy turning complex problems into elegant applications.
+  I am a passionate software engineer focused on building <b>robust, scalable software solutions</b>. With a strong foundation in Computer Science and hands-on experience in the MERN stack and Java development, I enjoy turning complex problems into elegant applications. I am keenly interested in integrating cutting-edge **Generative AI** and **Agentic AI** systems into real-world products.
 </p>
 
 - 🔭 I’m currently working on **Full Stack Web Applications.**
@@ -49,7 +49,15 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-**Tools & Platforms**
+**AI & Cloud Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-FF6A00?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Agentic_AI-22C55E?style=flat-square&logo=replicate&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+**Tools & Other**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -59,4 +67,3 @@
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
-
