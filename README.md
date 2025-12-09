@@ -20,7 +20,8 @@
 - 💼 Previously interned at **CodeTech**, developing E-commerce and EdTech platforms.
 - 🌱 I’m currently learning **Advanced System Design and Cloud Architecture.**
 - ⚡ Fun fact: I love optimizing code for efficiency just as much as building new features.
-
+-    Ai chat Bot and Generative Ai video making
+-    Automation by using Generative Ai
 ---
 
 <h3 align="left">🛠️ Tech Stack</h3>
