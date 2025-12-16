@@ -34,6 +34,8 @@ My current efforts are focused on leveraging the power of Generative and Agentic
 | **Conversational AI / Chatbot** | Designing and building conversational AI agents for domain-specific applications (e.g., customer support, personalized learning). | **Generative AI, LLMs, Prompt Engineering,** Node.js, Python (LangChain) |
 | **Generative Video Making** | Utilizing AI platforms for automated, scalable text-to-video content creation, primarily for EdTech tutorials and marketing clips. | **Generative AI, Video Platforms,** Scripting, Automation |
 | **Professional Documentation Automation** | Automating the creation of professional, descriptive GitHub README files and technical documentation for a streamlined development workflow. | **Agentic AI, GitHub Actions, LLM APIs,** Markdown, Copilot |
+| **AI-Powered Sweet Shop Management System** | End-to-end full stack application for managing products, orders, users, and admin operations, enhanced with AI-driven demand prediction and customer behavior insights. | **MERN Stack, REST APIs, JWT Auth, Generative AI, Data Analytics, Git, Cloud Deployment** |
+
 
 ---
 
