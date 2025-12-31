@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ansh Panchtilak 👋</h1>
-<h3 align="center">Computer Science Engineer | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Computer Science Engineer | Full Stack Developer | AI Generalist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ansh-panchtilak-512a13225/">
