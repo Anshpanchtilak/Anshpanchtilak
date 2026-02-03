@@ -14,7 +14,7 @@
 
 ## 🚀 About Me & Core Focus
 
-I am a passionate software engineer specializing in **Full Stack Development** (MERN, Java, Python/Django). My core focus is on building **robust, scalable software solutions** by integrating cutting-edge **Generative AI** and **Agentic AI systems** into real-world products.
+I am a passionate software engineer specializing in **Full Stack Development** (MERN, Java, Python/Django) and Business Development . My core focus is on building **robust, scalable software solutions** by integrating cutting-edge **Generative AI** and **Agentic AI systems** into real-world products.
 
 | Category | Detail |
 | :--- | :--- |
