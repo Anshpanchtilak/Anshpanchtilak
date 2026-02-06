@@ -15,7 +15,7 @@
 ## 🚀 About Me & Core Focus
 
 I am a passionate software engineer specializing in **Full Stack Development** (MERN, Java, Python/Django) and Business Development . My core focus is on building **robust, scalable software solutions** by integrating cutting-edge **Generative AI** and **Agentic AI systems** into real-world products.
-I am a Business Development Associate in JYESTA Corporated Entity learning lead gen and excellent communication skill.
+I am a Business Development Associate in JYESTA Corporated Entity learning lead gen and excellent communication skill. Learn about the new things experince about how to handle the people while having issue and problem solving solution.
 
 | Category | Detail |
 | :--- | :--- |
